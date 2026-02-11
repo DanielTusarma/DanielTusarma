@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Daniel Esteban Tusarma Guerrero
 
-🎓 Estudiante en formación continua en ciencia de datos, infraestructura, IA y Python.  
+🎓 Estudiante de Ingeniería de sistemas y computación en formación continua en ciencia de datos, infraestructura, IA y Python.  
 🛠️ Explorando el mundo de la programación, Linux, análisis de datos y machine learning.  
 📈 Me gusta aprender haciendo y trabajar en equipo.
 
